@@ -1,1 +1,1 @@
-add music player
+add music player support
